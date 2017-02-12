@@ -30,7 +30,7 @@
 
 现在，您的访客可以在网页跟客服聊天了。更好的是，该 JS 代码同时支持桌面网页和移动网页，因此手机网页访客也可以跟客服聊天!
 
-<aside class="success">
+<aside class="tip">
 网页集成 Okdesk 客服，无需安装本地程序，只需要插入一行 Javascript 代码。同时支持桌面网页和移动网页。
 </aside>
 
@@ -50,7 +50,7 @@
 
 点击它，完整的对话窗口将会弹出来。在对话窗口中，访客可以给客服发送消息以及接受来自客服的消息。
 
-<aside class="success">
+<aside class="tip">
 对话窗口可以在以下浏览器中运行：IE9/IE10/IE11/Edge, Chrome, Firefox, Opera, Safari 5.1及更高，以及国内主流的浏览器。不支持 IE8 以及更低版本的 IE。
 </aside>
 
