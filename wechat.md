@@ -1,28 +1,28 @@
 # 微信集成
 
-登录微信账号授权Mirachat运营经过认证的微信服务号，就可以在Mirachat工作台中处理微信上的客服请求。注意：不能在工作台中回复来自订阅号或者未经认证的服务号的用户的消息，这是微信官方设置的限制。
+登录微信账号授权 Okdesk 运营经过认证的微信服务号，就可以在 Okdesk 工作台中处理微信上的客服请求。注意：不能在工作台中回复来自订阅号或者未经认证的服务号的用户的消息，这是微信官方设置的限制。
 
-执行以下步骤来授权Mirachat运营微信服务号：
+执行以下步骤来授权 Okdesk 运营微信服务号：
 
-1. 如果还没有创建Mirachat帐户，请现在<a href="https://www.mirachat.com/register" target="_blank">创建</a>一个，否则直接到下一步；
+1. 如果还没有创建 Okdesk 帐户，请现在<a href="https://www.okdesk.cn/register" target="_blank">创建</a>一个，否则直接到下一步；
 
-2. <a href="https://www.mirachat.com/login" target="_blank">登录</a>到Mirachat工作台；
+2. <a href="https://www.okdesk.cn/login" target="_blank">登录</a>到 Okdesk 工作台；
 
 3. 在工作台中，点击微信集成->创建微信授权->微信公众号登录授权，接下来会跳转至微信公众号登录授权页面，如下图：
 
-	![微信公众号登录授权](https://www.mirachat.com/tutorial/wechat/img/login.png)
+	![微信公众号登录授权](https://www.okdesk.cn/tutorial/wechat/img/login.png)
 
 4. 按照页面上的指示完成整个登录授权过程，接下来会看到如下的页面：
 
-	![微信公众号授权成功](https://www.mirachat.com/tutorial/wechat/img/success.png)
+	![微信公众号授权成功](https://www.okdesk.cn/tutorial/wechat/img/success.png)
 
-5. 点击第4步中的链接，回到Mirachat工作台，然后跳转到访客页面。您现在已经准备好处理即将进来的客服请求了；
+5. 点击第4步中的链接，回到 Okdesk 工作台，然后跳转到访客页面。您现在已经准备好处理即将进来的客服请求了；
 
-6. 关注被托管的公众帐号，然后发送一条“Hi”的消息，该消息将出现在Mirachat工作台中；在工作台中点击该通话，然后在文本框中输入“Hey”并发送，接下来该消息将会出现在微信通话中；
+6. 关注被托管的公众帐号，然后发送一条“Hi”的消息，该消息将出现在 Okdesk 工作台中；在工作台中点击该通话，然后在文本框中输入“Hey”并发送，接下来该消息将会出现在微信通话中；
 
-成功！您可以在Mirachat工作台中处理微信用户的问题了。
+成功！您可以在 Okdesk 工作台中处理微信用户的问题了。
 
-目前Mirachat可以处理以下类型的微信消息：文本、图片、语音和视频。
+目前 Okdesk 可以处理以下类型的微信消息：文本、图片、语音和视频。
 
 <aside class="warning">
 只能够在工作台中回复来自经过认证的服务号的用户的消息；不能在工作台中回复来自订阅号或未经认证的服务号的用户的消息。
@@ -50,4 +50,4 @@
 
 5. 取消授权的链接出现，点击并完成余下的步骤就完成了。
 
-当完成以上步骤以后，秒通客服将不再运营您的微信公众号。如果需要再次授权，请参阅：[微信集成](#微信集成)。
+当完成以上步骤以后，Okdesk 将不再运营您的微信公众号。如果需要再次授权，请参阅：[微信集成](#微信集成)。
