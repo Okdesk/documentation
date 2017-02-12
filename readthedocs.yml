@@ -1,0 +1,4 @@
+pages:
+    - '简介': 'index.md'
+    - '工作台': 'dashboard.md'
+    - '网页': 'web.md'
