@@ -1,10 +1,10 @@
 # Okdesk 是什么
 
-OKdesk 是最新一代运行在云端的多渠道客服软件。
+Okdesk 是最新一代运行在云端的多渠道客服软件。由于 Okdesk 采用了最新的云计算技术，用户无需安装、升级、维护，尤其适合中小型企业采用。
 
 ## 渠道
 
-渠道是网络访客上网的方式，比如网页、微信、微博、iOS app 和 Android app 等。
+渠道是网络访客上网的方式，比如网页、微信、微博、iOS App 和 Android App 等。
 
 ## 工作台
 
@@ -12,7 +12,7 @@ Okdesk 工作台是客服人员与访客通话的网页界面。工作台运行�
 
 工作台登录网址是：<a href="https://www.okdesk.cn/login/">https://www.okdesk.cn/login/</a>。
 
-工作台可以在以下浏览器中运行：Chrome, Firefox, IE10/IE11/Edge, Safari 6及更高, Opera，以及国内主流的浏览器。为了达到最好的用户体验，我们推荐 Chrome 浏览器。
+工作台可以在以下浏览器中运行：Chrome，Firefox，IE10/IE11/Edge，Safari 6及更高，Opera，以及国内主流的浏览器。为了达到最好的用户体验，我们推荐 Chrome 浏览器。
 
 ![支持的浏览器](https://www.okdesk.cn/documentation/source/images/browsers.png)
 
