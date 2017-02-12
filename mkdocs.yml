@@ -1,7 +1,7 @@
 site_name: Okdesk 文档
 pages:
     - '简介': 'index.md'
-    - '工作台': 'dashboard.md'
+    - 'Okdesk 是什么': 'whatisokdesk.md'
     - '网页集成': 'web.md'
     - 'iOS 集成': 'ios.md'
     - 'Android 集成': 'android.md'
