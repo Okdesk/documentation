@@ -8,4 +8,4 @@ Okdesk 工作台是客服人员与访客通话的网页界面。工作台运行�
 
 ![支持的浏览器](https://www.okdesk.cn/documentation/source/images/browsers.png)
 
-为了让某个渠道上的访客/用户能够和您的客服通话，首先需要把 Mirachat 集成到该渠道中。比如，您需要网页访客能够和客服通话，请阅读[网页集成](https://www.okdesk.cn/documentation/zh/#网页集成)；如果需要用 Mirachat 高效处理微信的客服通话，请阅读[微信集成](https://www.okdesk.cn/documentation/zh/#微信集成)。其他的渠道类似。
+为了让某个渠道上的访客/用户能够和您的客服通话，首先需要把 Mirachat 集成到该渠道中。比如，您需要网页访客能够和客服通话，请阅读[网页集成](https://okdesk-docs.readthedocs.io/zh/latest/web/)；如果需要用 Mirachat 高效处理微信的客服通话，请阅读[微信集成](https://okdesk-docs.readthedocs.io/zh/latest/wechat/)。其他的渠道类似。
