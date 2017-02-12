@@ -1,10 +1,10 @@
-# Android集成
+# Android 集成
 
-## 在Android App中添加客服功能
+## 在 Android App 中添加客服功能
 
-使用Mirachat的Android SDK，提供和Android App的原生(native)集成，提供最优的用户体验。Mirachat Android SDK支持Android Studio + Gradle。
+使用 Okdesk 的Android SDK，提供和 Android App 的原生(native)集成，提供最优的用户体验。Okdesk Android SDK 支持 Android Studio + Gradle。
 
-1. 点击下面的链接来下载最新的Mirachat Android SDK：
+1. 点击下面的链接来下载最新的 Okdesk Android SDK：
     <div style="text-align: center;"><div><a href="https://cdn.okdesk.cn/sdk/android/mirachat_android_sdk.zip"><img src="https://cdn.okdesk.cn/documentation/source/images/android.png" class="sdk"></a></div>下载Android SDK</div>
 
 2. 在Android Studio中打开您的项目；
@@ -77,12 +77,12 @@
 
 	在工作台中打开这通对话，然后输入“Hey”，稍后您就会看到它出现在App的客服界面中。
 
-成功！您已经把客服功能集成到Android App里面了。现在您的App用户可以在Android App中发起客服通话了！
+成功！您已经把客服功能集成到 Android App 里面了。现在您的 App 用户可以在 Android App 中发起客服通话了！
 
 <aside class="success">
-提示 — Mirachat Android SDK支持Android Studio和Gradle。
+提示 — Okdesk Android SDK支持Android Studio和Gradle。
 </aside>
 
 ## 推送
 
-Mirachat 的 Android SDK 的推送设置步骤和 iOS SDK 完全一样，请参照[这里](https://www.mirachat.com/documentation/zh/#推送)。
+Okdesk 的 Android SDK 的推送设置步骤和 iOS SDK 完全一样，请参照[这里](https://www.okdesk.cn/documentation/zh/#推送)。
