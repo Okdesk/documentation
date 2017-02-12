@@ -2,8 +2,8 @@ site_name: Okdesk 文档
 pages:
     - '简介': 'index.md'
     - '工作台': 'dashboard.md'
-    - '网页': 'web.md'
-    - 'iOS': 'ios.md'
-    - 'Android': 'android.md'
-    - '微信': 'wechat.md'
-    - '微博': 'weibo.md'
+    - '网页集成': 'web.md'
+    - 'iOS 集成': 'ios.md'
+    - 'Android 集成': 'android.md'
+    - '微信集成': 'wechat.md'
+    - '微博集成': 'weibo.md'
