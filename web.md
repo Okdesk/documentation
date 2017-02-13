@@ -6,7 +6,7 @@
 
 1. 如果还没有创建 Okdesk 帐户，请现在<a href="https://www.okdesk.cn/register" target="_blank">创建</a>一个，否则直接到下一步；
 
-2. [登录](https://www.okdesk.cn/login)到 Okdesk 工作台；
+2. <a href="https://www.okdesk.cn/login" target="_blank">登录</a>到 Okdesk 工作台；
 
 3. 在工作台中，点击网页设置，拷贝 **Javascript 代码**文本框中的代码；
 
@@ -29,7 +29,7 @@
 现在，您的访客可以在网页跟客服聊天了。由于该 JS 代码同时支持桌面网页和移动网页，因此手机网页访客也可以跟客服聊天!
 
 <aside class="tip">
-网页集成 Okdesk 客服，无需安装本地程序，只需要插入一行 Javascript 代码。同时支持桌面网页和移动网页。
+网页集成 Okdesk 客服，只需要插入一行 Javascript 代码。同时支持桌面网页和移动网页。
 </aside>
 
 ## 对话窗口
